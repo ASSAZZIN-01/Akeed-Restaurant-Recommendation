@@ -6,8 +6,7 @@
 1-run Notebook in LGBM_AZER<br>
 2-run Notebook in LGBM_AHMED<br>
 3-run Notebook in LGBM_NACIR<br>
-4-run Notebook in LGBM_Categorical<br>
-5-run Notebook in XGBOOST<br>
+4-run Notebook in XGBOOST<br>
   
 
 </h3><br>
