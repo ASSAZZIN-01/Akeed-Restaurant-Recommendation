@@ -3,11 +3,11 @@
 
 <h2>STEPS</h2>
 <h3> 
-1-run Notebook in LGBM_AZER
-2-run Notebook in LGBM_AHMED
-3-run Notebook in LGBM_NACIR
-4-run Notebook in LGBM_Categorical
-5-run Notebook in XGBOOST
+1-run Notebook in LGBM_AZER<br>
+2-run Notebook in LGBM_AHMED<br>
+3-run Notebook in LGBM_NACIR<br>
+4-run Notebook in LGBM_Categorical<br>
+5-run Notebook in XGBOOST<br>
   
 
 </h3><br>
