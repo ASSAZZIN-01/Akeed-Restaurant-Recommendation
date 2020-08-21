@@ -1,4 +1,3 @@
-# Akeed-Restaurant-Recommendation
 <h1> PLEASE RUN OUR NOTEBOOKS ON 25Gb RAM Notebook </h1> <hr><br>
 
 <h2>STEPS</h2>
