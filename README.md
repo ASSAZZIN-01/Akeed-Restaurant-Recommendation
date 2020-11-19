@@ -1,12 +1,3 @@
-<h1> PLEASE RUN OUR NOTEBOOKS ON 25Gb RAM Notebook </h1> <hr><br>
-
-<h2>STEPS</h2>
-<h3> 
-1-run Notebook in LGBM_AZER<br>
-2-run Notebook in LGBM_AHMED<br>
-3-run Notebook in LGBM_NACIR<br>
-4-run Notebook in XGBOOST<br>
-  
 # Akeed Restaurant Recommendation Challenge
 
 ## Brief Description
